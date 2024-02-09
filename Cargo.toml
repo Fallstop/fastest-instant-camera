@@ -1,0 +1,11 @@
+[package]
+name = "fastest-instant-camera"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+escpos-rs = "0.4.3"
+image = "0.23.14"
+v4l = "0.14.0"
